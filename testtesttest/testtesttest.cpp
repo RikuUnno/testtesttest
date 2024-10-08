@@ -7,6 +7,10 @@ using namespace std;
 int main()
 {
     cout << "こんにちわ" << endl;
+    int a = 1;
+    int b = 2;
+
+    a + b;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
