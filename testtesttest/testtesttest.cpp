@@ -9,8 +9,11 @@ int main()
     cout << "こんにちわ" << endl;
     int a = 1;
     int b = 2;
+    int ans = 0;
 
-    a + b;
+    ans = a + b;
+
+    cout << ans << endl;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
